@@ -1,0 +1,25 @@
+May 12 00:46:18 10.71.61.0 u101952442 Connection from 10.71.61.0 port 44194 on 74.208.56.117 port 22
+May 12 00:46:18 10.71.61.0 u101952442 Accepted password for u101952442 from 10.71.61.0 port 44194 ssh2
+May 12 00:46:18 10.71.61.0 u101952442 Starting session: subsystem 'sftp' for u101952442 from 10.71.61.0 port 44194 id 0
+May 12 00:46:18 10.71.61.0 u101952442 session opened for local user u101952442 from [10.71.61.0]
+May 12 00:46:19 10.71.61.0 u101952442 session closed for local user u101952442 from [10.71.61.0]
+May 12 00:46:19 10.71.61.0 u101952442 Connection closed by 10.71.61.0 port 44194
+May 14 13:53:23 10.71.61.0 u101952442 Connection from 10.71.61.0 port 47586 on 74.208.56.117 port 22
+May 14 13:53:25 10.71.61.0 u101952442 Accepted password for u101952442 from 10.71.61.0 port 47586 ssh2
+May 14 13:53:25 10.71.61.0 u101952442 Starting session: subsystem 'sftp' for u101952442 from 10.71.61.0 port 47586 id 0
+May 14 13:53:25 10.71.61.0 u101952442 session opened for local user u101952442 from [10.71.61.0]
+May 14 13:53:41 10.71.61.0 u101952442 mkdir name "/devanyAntiguo" mode 0777
+May 14 13:53:41 10.71.61.0 u101952442 [10.71.61.0|mkdir|0|0|511|0|0|2f646576616e79416e746967756f|]
+May 14 13:53:51 10.71.61.0 u101952442 Connection from 10.71.61.0 port 64220 on 74.208.56.117 port 22
+May 14 13:53:53 10.71.61.0 u101952442 Accepted password for u101952442 from 10.71.61.0 port 64220 ssh2
+May 14 13:53:53 10.71.61.0 u101952442 Starting session: subsystem 'sftp' for u101952442 from 10.71.61.0 port 64220 id 0
+May 14 13:53:53 10.71.61.0 u101952442 session opened for local user u101952442 from [10.71.61.0]
+May 14 13:53:53 10.71.61.0 u101952442 open "/edrei/index.html" flags READ mode 0666
+May 14 13:53:53 10.71.61.0 u101952442 close "/edrei/index.html" bytes read 4003 written 0
+May 14 13:53:53 10.71.61.0 u101952442 [10.71.61.0|get|0|4003|0|0|0|2f65647265692f696e6465782e68746d6c|]
+May 14 13:53:53 10.71.61.0 u101952442 session closed for local user u101952442 from [10.71.61.0]
+May 14 13:53:54 10.71.61.0 u101952442 Received disconnect from 10.71.61.0 port 64220:11: 
+May 14 13:54:39 10.71.61.0 u101952442 Connection from 10.71.61.0 port 36250 on 74.208.56.117 port 22
+May 14 13:54:41 10.71.61.0 u101952442 Accepted password for u101952442 from 10.71.61.0 port 36250 ssh2
+May 14 13:54:41 10.71.61.0 u101952442 Starting session: subsystem 'sftp' for u101952442 from 10.71.61.0 port 36250 id 0
+May 14 13:54:41 10.71.61.0 u101952442 session opened for local user u101952442 from [10.71.61.0]
